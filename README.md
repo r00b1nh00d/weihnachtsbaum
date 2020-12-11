@@ -7,7 +7,7 @@ Mit dem Calliope ein Neopixeln kein Problem! <br>
 Die Programmierung ist einfach. Mit dem drückens des ``||input: Knopfes A||`` kannst du alle LEDs auf Grün schalten. <br>
 Mit drücken des ``||input: Knopfes B||`` kannst du jetzt den Weihnachtsbaum mit roten "Christbaum Kugeln" schmücken.  <br>
 Schalte dazu einfach jede dritte oder vierte LED auf rot. <br>
-**probiere dies möglichst selbst zu programmieren**
+**probiere dies möglichst selbst zu programmieren** <br>
 ![Weihnachtsbaum](https://github.com/r00b1nh00d/weihnachtsbaum/blob/master/Weihnachtsbaum.gif?raw=true)
 
 
