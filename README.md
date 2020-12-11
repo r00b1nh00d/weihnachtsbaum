@@ -2,12 +2,13 @@
 ## ~avatar avatar @unplugged
 Du möchtest einen kleinen digitalen Weihnachtsbaum für deinen Schriebtisch? <br>
 Mit dem Calliope ein Neopixeln kein Problem! <br>
+![Weihnachtsbaum](https://github.com/r00b1nh00d/weihnachtsbaum/blob/master/Weihnachtsbaum.gif?raw=true)
 ## Programmierung
 Die Programmierung ist einfach. Mit dem drückens des ``||input: Knopfes A||`` kannst du alle LEDs auf Grün schalten. <br>
 Mit drücken des ``||input: Knopfes B||`` kannst du jetzt den Weihnachtsbaum mit roten "Christbaum Kugeln" schmücken.  <br>
 Schalte dazu einfach jede dritte oder vierte LED auf rot.
 **probiere dies möglichst selbst zu programmieren**
-
+![Weihnachtsbaum](https://github.com/r00b1nh00d/weihnachtsbaum/blob/master/Weihnachtsbaum.gif?raw=true)
 
 
 
